@@ -1,0 +1,1459 @@
+[
+    {
+        "career": "Data Scientist",
+        "skills": [
+            "Statistics",
+            "Programming",
+            "Machine Learning"
+        ],
+        "personality": [
+            "Analytical",
+            "Curious"
+        ],
+        "salary": "10L-50L",
+        "demand": "High",
+        "category": "Technology"
+    },
+    {
+        "career": "Software Engineer",
+        "skills": [
+            "Programming",
+            "Problem Solving",
+            "Software Development"
+        ],
+        "personality": [
+            "Detail Oriented",
+            "Methodical"
+        ],
+        "salary": "6L-20L",
+        "demand": "High",
+        "category": "Technology"
+    },
+    {
+        "career": "Financial Analyst",
+        "skills": [
+            "Financial Modeling",
+            "Data Analysis",
+            "Excel"
+        ],
+        "personality": [
+            "Analytical",
+            "Goal Oriented"
+        ],
+        "salary": "5L-25L",
+        "demand": "Medium",
+        "category": "Finance"
+    },
+    {
+        "career": "Marketing Manager",
+        "skills": [
+            "Strategic Thinking",
+            "Communication",
+            "Market Research"
+        ],
+        "personality": [
+            "Creative",
+            "Persuasive"
+        ],
+        "salary": "8L-20L",
+        "demand": "High",
+        "category": "Business"
+    },
+    {
+        "career": "Registered Nurse",
+        "skills": [
+            "Patient Care",
+            "Medical Knowledge",
+            "Communication"
+        ],
+        "personality": [
+            "Empathetic",
+            "Compassionate"
+        ],
+        "salary": "4L-12L",
+        "demand": "Very High",
+        "category": "Medicine"
+    },
+    {
+        "career": "Civil Engineer",
+        "skills": [
+            "Project Management",
+            "Structural Analysis",
+            "AutoCAD"
+        ],
+        "personality": [
+            "Analytical",
+            "Practical"
+        ],
+        "salary": "6L-15L",
+        "demand": "High",
+        "category": "Engineering"
+    },
+    {
+        "career": "Graphic Designer",
+        "skills": [
+            "Adobe Creative Suite",
+            "Creativity",
+            "Typographic Skills"
+        ],
+        "personality": [
+            "Creative",
+            "Flexible"
+        ],
+        "salary": "3L-10L",
+        "demand": "Medium",
+        "category": "Arts"
+    },
+    {
+        "career": "Psychologist",
+        "skills": [
+            "Therapeutic Techniques",
+            "Research",
+            "Communication"
+        ],
+        "personality": [
+            "Empathetic",
+            "Observant"
+        ],
+        "salary": "8L-25L",
+        "demand": "High",
+        "category": "Humanities"
+    },
+    {
+        "career": "Corporate Lawyer",
+        "skills": [
+            "Legal Knowledge",
+            "Negotiation",
+            "Research"
+        ],
+        "personality": [
+            "Detail Oriented",
+            "Persuasive"
+        ],
+        "salary": "10L-50L",
+        "demand": "Medium",
+        "category": "Law"
+    },
+    {
+        "career": "Public Policy Analyst",
+        "skills": [
+            "Research",
+            "Critical Thinking",
+            "Data Analysis"
+        ],
+        "personality": [
+            "Analytical",
+            "Inquisitive"
+        ],
+        "salary": "6L-15L",
+        "demand": "Medium",
+        "category": "Government"
+    },
+    {
+        "career": "Content Writer",
+        "skills": [
+            "Writing",
+            "Research",
+            "SEO"
+        ],
+        "personality": [
+            "Creative",
+            "Detail Oriented"
+        ],
+        "salary": "2L-7L",
+        "demand": "High",
+        "category": "Creative fields"
+    },
+    {
+        "career": "Network Administrator",
+        "skills": [
+            "Network Security",
+            "Troubleshooting",
+            "System Administration"
+        ],
+        "personality": [
+            "Detail Oriented",
+            "Logical"
+        ],
+        "salary": "4L-12L",
+        "demand": "High",
+        "category": "Technology"
+    },
+    {
+        "career": "Business Analyst",
+        "skills": [
+            "Data Analysis",
+            "Requirements Gathering",
+            "Communication"
+        ],
+        "personality": [
+            "Analytical",
+            "Problem Solver"
+        ],
+        "salary": "5L-18L",
+        "demand": "High",
+        "category": "Business"
+    },
+    {
+        "career": "Investment Banker",
+        "skills": [
+            "Finance",
+            "Analytical Skills",
+            "Negotiation"
+        ],
+        "personality": [
+            "Driven",
+            "Analytical"
+        ],
+        "salary": "15L-1Cr",
+        "demand": "High",
+        "category": "Finance"
+    },
+    {
+        "career": "Clinical Research Coordinator",
+        "skills": [
+            "Project Management",
+            "Clinical Knowledge",
+            "Data Management"
+        ],
+        "personality": [
+            "Detail Oriented",
+            "Organized"
+        ],
+        "salary": "5L-15L",
+        "demand": "Medium",
+        "category": "Medicine"
+    },
+    {
+        "career": "Mechanical Engineer",
+        "skills": [
+            "Prototyping",
+            "SolidWorks",
+            "Thermodynamics"
+        ],
+        "personality": [
+            "Practical",
+            "Analytical"
+        ],
+        "salary": "6L-20L",
+        "demand": "High",
+        "category": "Engineering"
+    },
+    {
+        "career": "Fashion Designer",
+        "skills": [
+            "Creativity",
+            "Sketching",
+            "Trend Analysis"
+        ],
+        "personality": [
+            "Creative",
+            "Passionate"
+        ],
+        "salary": "5L-30L",
+        "demand": "Medium",
+        "category": "Arts"
+    },
+    {
+        "career": "Sociologist",
+        "skills": [
+            "Research",
+            "Statistical Analysis",
+            "Communication"
+        ],
+        "personality": [
+            "Inquisitive",
+            "Empathetic"
+        ],
+        "salary": "4L-15L",
+        "demand": "Medium",
+        "category": "Humanities"
+    },
+    {
+        "career": "School Counselor",
+        "skills": [
+            "Advising",
+            "Listening",
+            "Crisis Intervention"
+        ],
+        "personality": [
+            "Empathetic",
+            "Patient"
+        ],
+        "salary": "3L-12L",
+        "demand": "Medium",
+        "category": "Humanities"
+    },
+    {
+        "career": "Judge",
+        "skills": [
+            "Legal Knowledge",
+            "Decision Making",
+            "Research"
+        ],
+        "personality": [
+            "Analytical",
+            "Fair"
+        ],
+        "salary": "10L-35L",
+        "demand": "Medium",
+        "category": "Law"
+    },
+    {
+        "career": "Legislative Assistant",
+        "skills": [
+            "Research",
+            "Communication",
+            "Organization"
+        ],
+        "personality": [
+            "Detail Oriented",
+            "Motivated"
+        ],
+        "salary": "3L-10L",
+        "demand": "Medium",
+        "category": "Government"
+    },
+    {
+        "career": "UX Designer",
+        "skills": [
+            "User Research",
+            "Prototyping",
+            "Wireframing"
+        ],
+        "personality": [
+            "Creative",
+            "Empathetic"
+        ],
+        "salary": "6L-25L",
+        "demand": "High",
+        "category": "Creative fields"
+    },
+    {
+        "career": "Cloud Architect",
+        "skills": [
+            "Cloud Computing",
+            "Networking",
+            "Security"
+        ],
+        "personality": [
+            "Analytical",
+            "Innovative"
+        ],
+        "salary": "12L-50L",
+        "demand": "High",
+        "category": "Technology"
+    },
+    {
+        "career": "Product Manager",
+        "skills": [
+            "Project Management",
+            "Market Analysis",
+            "Leadership"
+        ],
+        "personality": [
+            "Strategic",
+            "Decisive"
+        ],
+        "salary": "8L-30L",
+        "demand": "High",
+        "category": "Business"
+    },
+    {
+        "career": "Actuary",
+        "skills": [
+            "Statistics",
+            "Risk Assessment",
+            "Financial Theory"
+        ],
+        "personality": [
+            "Analytical",
+            "Detail Oriented"
+        ],
+        "salary": "8L-20L",
+        "demand": "Medium",
+        "category": "Finance"
+    },
+    {
+        "career": "Pharmacist",
+        "skills": [
+            "Pharmaceutical Knowledge",
+            "Patient Care",
+            "Attention to Detail"
+        ],
+        "personality": [
+            "Detail Oriented",
+            "Responsible"
+        ],
+        "salary": "6L-20L",
+        "demand": "High",
+        "category": "Medicine"
+    },
+    {
+        "career": "Electrical Engineer",
+        "skills": [
+            "Circuit Design",
+            "Problem Solving",
+            "Project Management"
+        ],
+        "personality": [
+            "Analytical",
+            "Curious"
+        ],
+        "salary": "6L-22L",
+        "demand": "High",
+        "category": "Engineering"
+    },
+    {
+        "career": "Animator",
+        "skills": [
+            "Animation Software",
+            "Creativity",
+            "Storytelling"
+        ],
+        "personality": [
+            "Creative",
+            "Imaginative"
+        ],
+        "salary": "3L-15L",
+        "demand": "Medium",
+        "category": "Arts"
+    },
+    {
+        "career": "Historian",
+        "skills": [
+            "Research",
+            "Writing",
+            "Analytical Thinking"
+        ],
+        "personality": [
+            "Inquisitive",
+            "Detail Oriented"
+        ],
+        "salary": "5L-15L",
+        "demand": "Medium",
+        "category": "Humanities"
+    },
+    {
+        "career": "Criminal Lawyer",
+        "skills": [
+            "Legal Knowledge",
+            "Public Speaking",
+            "Negotiation"
+        ],
+        "personality": [
+            "Persuasive",
+            "Confident"
+        ],
+        "salary": "10L-60L",
+        "demand": "Medium",
+        "category": "Law"
+    },
+    {
+        "career": "City Planner",
+        "skills": [
+            "Urban Design",
+            "Research",
+            "Project Management"
+        ],
+        "personality": [
+            "Analytical",
+            "Visionary"
+        ],
+        "salary": "5L-20L",
+        "demand": "Medium",
+        "category": "Government"
+    },
+    {
+        "career": "Video Game Designer",
+        "skills": [
+            "Game Development",
+            "Programming",
+            "Graphic Design"
+        ],
+        "personality": [
+            "Creative",
+            "Analytical"
+        ],
+        "salary": "5L-25L",
+        "demand": "High",
+        "category": "Creative fields"
+    },
+    {
+        "career": "Artificial Intelligence Engineer",
+        "skills": [
+            "Machine Learning",
+            "Programming",
+            "Data Analysis"
+        ],
+        "personality": [
+            "Innovative",
+            "Analytical"
+        ],
+        "salary": "12L-50L",
+        "demand": "High",
+        "category": "Technology"
+    },
+    {
+        "career": "Sales Manager",
+        "skills": [
+            "Sales Strategy",
+            "Team Leadership",
+            "Market Analysis"
+        ],
+        "personality": [
+            "Persuasive",
+            "Competitive"
+        ],
+        "salary": "6L-25L",
+        "demand": "High",
+        "category": "Business"
+    },
+    {
+        "career": "Chartered Financial Analyst",
+        "skills": [
+            "Investment Analysis",
+            "Portfolio Management",
+            "Financial Reporting"
+        ],
+        "personality": [
+            "Detail Oriented",
+            "Analytical"
+        ],
+        "salary": "8L-35L",
+        "demand": "High",
+        "category": "Finance"
+    },
+    {
+        "career": "Occupational Therapist",
+        "skills": [
+            "Patient Assessment",
+            "Therapy Techniques",
+            "Communication"
+        ],
+        "personality": [
+            "Empathetic",
+            "Creative"
+        ],
+        "salary": "6L-20L",
+        "demand": "High",
+        "category": "Medicine"
+    },
+    {
+        "career": "Aerospace Engineer",
+        "skills": [
+            "Aerodynamics",
+            "Computer-Aided Design",
+            "Problem Solving"
+        ],
+        "personality": [
+            "Detail Oriented",
+            "Analytical"
+        ],
+        "salary": "8L-30L",
+        "demand": "High",
+        "category": "Engineering"
+    },
+    {
+        "career": "Interior Designer",
+        "skills": [
+            "Creativity",
+            "Design Software",
+            "Project Management"
+        ],
+        "personality": [
+            "Creative",
+            "Detail Oriented"
+        ],
+        "salary": "4L-18L",
+        "demand": "Medium",
+        "category": "Arts"
+    },
+    {
+        "career": "Anthropologist",
+        "skills": [
+            "Research",
+            "Data Analysis",
+            "Cultural Understanding"
+        ],
+        "personality": [
+            "Inquisitive",
+            "Open-Minded"
+        ],
+        "salary": "5L-20L",
+        "demand": "Medium",
+        "category": "Humanities"
+    },
+    {
+        "career": "Tax Consultant",
+        "skills": [
+            "Tax Law",
+            "Financial Analysis",
+            "Attention to Detail"
+        ],
+        "personality": [
+            "Analytical",
+            "Detail Oriented"
+        ],
+        "salary": "5L-25L",
+        "demand": "High",
+        "category": "Finance"
+    },
+    {
+        "career": "Dentist",
+        "skills": [
+            "Clinical Skills",
+            "Patient Care",
+            "Dental Knowledge"
+        ],
+        "personality": [
+            "Detail Oriented",
+            "Calm"
+        ],
+        "salary": "12L-40L",
+        "demand": "High",
+        "category": "Medicine"
+    },
+    {
+        "career": "Chemical Engineer",
+        "skills": [
+            "Chemical Process",
+            "Problem Solving",
+            "Analytical Skills"
+        ],
+        "personality": [
+            "Innovative",
+            "Analytical"
+        ],
+        "salary": "8L-25L",
+        "demand": "High",
+        "category": "Engineering"
+    },
+    {
+        "career": "Musician",
+        "skills": [
+            "Musical Proficiency",
+            "Performance Skills",
+            "Creativity"
+        ],
+        "personality": [
+            "Creative",
+            "Passionate"
+        ],
+        "salary": "2L-15L",
+        "demand": "Medium",
+        "category": "Arts"
+    },
+    {
+        "career": "Philosopher",
+        "skills": [
+            "Critical Thinking",
+            "Writing",
+            "Analytical Skills"
+        ],
+        "personality": [
+            "Inquisitive",
+            "Thoughtful"
+        ],
+        "salary": "4L-12L",
+        "demand": "Medium",
+        "category": "Humanities"
+    },
+    {
+        "career": "Paralegal",
+        "skills": [
+            "Legal Research",
+            "Organizational Skills",
+            "Attention to Detail"
+        ],
+        "personality": [
+            "Detail Oriented",
+            "Responsible"
+        ],
+        "salary": "3L-10L",
+        "demand": "Medium",
+        "category": "Law"
+    },
+    {
+        "career": "Urban Planner",
+        "skills": [
+            "Data Analysis",
+            "Communication",
+            "Project Management"
+        ],
+        "personality": [
+            "Strategic",
+            "Analytical"
+        ],
+        "salary": "7L-25L",
+        "demand": "Medium",
+        "category": "Government"
+    },
+    {
+        "career": "Screenwriter",
+        "skills": [
+            "Writing",
+            "Storytelling",
+            "Creativity"
+        ],
+        "personality": [
+            "Creative",
+            "Imaginative"
+        ],
+        "salary": "3L-15L",
+        "demand": "Medium",
+        "category": "Creative fields"
+    },
+    {
+        "career": "Cybersecurity Specialist",
+        "skills": [
+            "Network Security",
+            "Risk Management",
+            "Incident Response"
+        ],
+        "personality": [
+            "Analytical",
+            "Detail Oriented"
+        ],
+        "salary": "10L-40L",
+        "demand": "High",
+        "category": "Technology"
+    },
+    {
+        "career": "Human Resources Manager",
+        "skills": [
+            "People Management",
+            "Communication",
+            "Conflict Resolution"
+        ],
+        "personality": [
+            "Empathetic",
+            "Organized"
+        ],
+        "salary": "6L-25L",
+        "demand": "High",
+        "category": "Business"
+    },
+    {
+        "career": "Actuary",
+        "skills": [
+            "Statistical Analysis",
+            "Risk Management",
+            "Mathematics"
+        ],
+        "personality": [
+            "Analytical",
+            "Detail Oriented"
+        ],
+        "salary": "8L-25L",
+        "demand": "Medium",
+        "category": "Finance"
+    },
+    {
+        "career": "Medical Researcher",
+        "skills": [
+            "Research Skills",
+            "Data Analysis",
+            "Clinical Knowledge"
+        ],
+        "personality": [
+            "Inquisitive",
+            "Detail Oriented"
+        ],
+        "salary": "8L-30L",
+        "demand": "High",
+        "category": "Medicine"
+    },
+    {
+        "career": "Landscape Architect",
+        "skills": [
+            "Design",
+            "Project Management",
+            "Site Analysis"
+        ],
+        "personality": [
+            "Creative",
+            "Analytical"
+        ],
+        "salary": "5L-22L",
+        "demand": "Medium",
+        "category": "Engineering"
+    },
+    {
+        "career": "Photographer",
+        "skills": [
+            "Photography",
+            "Editing",
+            "Creativity"
+        ],
+        "personality": [
+            "Artistic",
+            "Detail Oriented"
+        ],
+        "salary": "2L-15L",
+        "demand": "Medium",
+        "category": "Arts"
+    },
+    {
+        "career": "Linguist",
+        "skills": [
+            "Language Proficiency",
+            "Research",
+            "Communication"
+        ],
+        "personality": [
+            "Analytical",
+            "Curious"
+        ],
+        "salary": "4L-15L",
+        "demand": "Medium",
+        "category": "Humanities"
+    },
+    {
+        "career": "Corporate Counsel",
+        "skills": [
+            "Legal Expertise",
+            "Negotiation",
+            "Business Acumen"
+        ],
+        "personality": [
+            "Persuasive",
+            "Detail Oriented"
+        ],
+        "salary": "12L-50L",
+        "demand": "Medium",
+        "category": "Law"
+    },
+    {
+        "career": "Government Affairs Director",
+        "skills": [
+            "Policy Expertise",
+            "Communication",
+            "Strategic Planning"
+        ],
+        "personality": [
+            "Strategic",
+            "Persuasive"
+        ],
+        "salary": "10L-40L",
+        "demand": "Medium",
+        "category": "Government"
+    },
+    {
+        "career": "3D Modeler",
+        "skills": [
+            "3D Software",
+            "Design",
+            "Creativity"
+        ],
+        "personality": [
+            "Creative",
+            "Detail Oriented"
+        ],
+        "salary": "4L-20L",
+        "demand": "Medium",
+        "category": "Creative fields"
+    },
+    {
+        "career": "DevOps Engineer",
+        "skills": [
+            "Systems Administration",
+            "Scripting",
+            "Automation"
+        ],
+        "personality": [
+            "Analytical",
+            "Detail Oriented"
+        ],
+        "salary": "8L-30L",
+        "demand": "High",
+        "category": "Technology"
+    },
+    {
+        "career": "Business Consultant",
+        "skills": [
+            "Problem Solving",
+            "Analytical Skills",
+            "Communication"
+        ],
+        "personality": [
+            "Strategic",
+            "Analytical"
+        ],
+        "salary": "7L-25L",
+        "demand": "High",
+        "category": "Business"
+    },
+    {
+        "career": "Accountant",
+        "skills": [
+            "Accounting",
+            "Financial Reporting",
+            "Analytical Skills"
+        ],
+        "personality": [
+            "Detail Oriented",
+            "Reliable"
+        ],
+        "salary": "4L-20L",
+        "demand": "High",
+        "category": "Finance"
+    },
+    {
+        "career": "Surgeon",
+        "skills": [
+            "Surgical Skills",
+            "Medical Knowledge",
+            "Precision"
+        ],
+        "personality": [
+            "Detail Oriented",
+            "Calm"
+        ],
+        "salary": "15L-1Cr",
+        "demand": "Very High",
+        "category": "Medicine"
+    },
+    {
+        "career": "Software Architect",
+        "skills": [
+            "Software Development",
+            "Architecture Design",
+            "Problem Solving"
+        ],
+        "personality": [
+            "Innovative",
+            "Analytical"
+        ],
+        "salary": "12L-45L",
+        "demand": "High",
+        "category": "Technology"
+    },
+    {
+        "career": "Sales Engineer",
+        "skills": [
+            "Technical Knowledge",
+            "Communication",
+            "Problem Solving"
+        ],
+        "personality": [
+            "Persuasive",
+            "Analytical"
+        ],
+        "salary": "5L-25L",
+        "demand": "High",
+        "category": "Engineering"
+    },
+    {
+        "career": "Creative Director",
+        "skills": [
+            "Leadership",
+            "Creativity",
+            "Project Management"
+        ],
+        "personality": [
+            "Visionary",
+            "Leader"
+        ],
+        "salary": "10L-50L",
+        "demand": "High",
+        "category": "Creative fields"
+    },
+    {
+        "career": "Network Engineer",
+        "skills": [
+            "Networking",
+            "Troubleshooting",
+            "Security"
+        ],
+        "personality": [
+            "Analytical",
+            "Detail Oriented"
+        ],
+        "salary": "5L-25L",
+        "demand": "High",
+        "category": "Technology"
+    },
+    {
+        "career": "Entrepreneur",
+        "skills": [
+            "Business Acumen",
+            "Leadership",
+            "Financial Management"
+        ],
+        "personality": [
+            "Risk-Taker",
+            "Innovative"
+        ],
+        "salary": "Varies",
+        "demand": "High",
+        "category": "Business"
+    },
+    {
+        "career": "Real Estate Agent",
+        "skills": [
+            "Sales",
+            "Negotiation",
+            "Market Knowledge"
+        ],
+        "personality": [
+            "Outgoing",
+            "Persuasive"
+        ],
+        "salary": "3L-20L",
+        "demand": "High",
+        "category": "Commerce"
+    },
+    {
+        "career": "Home Health Aide",
+        "skills": [
+            "Patient Care",
+            "Compassion",
+            "Basic Medical Knowledge"
+        ],
+        "personality": [
+            "Empathetic",
+            "Patient"
+        ],
+        "salary": "2L-8L",
+        "demand": "Very High",
+        "category": "Medicine"
+    },
+    {
+        "career": "Biochemist",
+        "skills": [
+            "Laboratory Skills",
+            "Research",
+            "Analytical Skills"
+        ],
+        "personality": [
+            "Detail Oriented",
+            "Inquisitive"
+        ],
+        "salary": "5L-20L",
+        "demand": "Medium",
+        "category": "Research"
+    },
+    {
+        "career": "Compliance Officer",
+        "skills": [
+            "Regulatory Knowledge",
+            "Attention to Detail",
+            "Risk Assessment"
+        ],
+        "personality": [
+            "Analytical",
+            "Organized"
+        ],
+        "salary": "7L-30L",
+        "demand": "High",
+        "category": "Finance"
+    },
+    {
+        "career": "Interior Decorator",
+        "skills": [
+            "Aesthetic Sense",
+            "Color Theory",
+            "Design Software"
+        ],
+        "personality": [
+            "Creative",
+            "Detail Oriented"
+        ],
+        "salary": "3L-15L",
+        "demand": "Medium",
+        "category": "Arts"
+    },
+    {
+        "career": "Cybersecurity Analyst",
+        "skills": [
+            "Network Security",
+            "Risk Management",
+            "Analytical Skills"
+        ],
+        "personality": [
+            "Detail Oriented",
+            "Proactive"
+        ],
+        "salary": "8L-35L",
+        "demand": "High",
+        "category": "Technology"
+    },
+    {
+        "career": "Talent Acquisition Specialist",
+        "skills": [
+            "Recruitment",
+            "Communication",
+            "People Skills"
+        ],
+        "personality": [
+            "Persuasive",
+            "Outgoing"
+        ],
+        "salary": "4L-20L",
+        "demand": "Medium",
+        "category": "Business"
+    },
+    {
+        "career": "Supply Chain Manager",
+        "skills": [
+            "Logistics",
+            "Analytical Skills",
+            "Negotiation"
+        ],
+        "personality": [
+            "Organized",
+            "Problem Solver"
+        ],
+        "salary": "8L-30L",
+        "demand": "Medium",
+        "category": "Commerce"
+    },
+    {
+        "career": "Veterinarian",
+        "skills": [
+            "Animal Care",
+            "Surgical Skills",
+            "Clinical Knowledge"
+        ],
+        "personality": [
+            "Compassionate",
+            "Detail Oriented"
+        ],
+        "salary": "8L-30L",
+        "demand": "High",
+        "category": "Medicine"
+    },
+    {
+        "career": "Web Developer",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "personality": [
+            "Analytical",
+            "Creative"
+        ],
+        "salary": "4L-20L",
+        "demand": "High",
+        "category": "Technology"
+    },
+    {
+        "career": "Digital Marketing Specialist",
+        "skills": [
+            "SEO",
+            "Social Media Marketing",
+            "Content Creation"
+        ],
+        "personality": [
+            "Creative",
+            "Analytical"
+        ],
+        "salary": "4L-20L",
+        "demand": "High",
+        "category": "Business"
+    },
+    {
+        "career": "Art Director",
+        "skills": [
+            "Creativity",
+            "Leadership",
+            "Design Software"
+        ],
+        "personality": [
+            "Visionary",
+            "Detail Oriented"
+        ],
+        "salary": "10L-50L",
+        "demand": "Medium",
+        "category": "Creative fields"
+    },
+    {
+        "career": "Public Relations Specialist",
+        "skills": [
+            "Communication",
+            "Writing",
+            "Networking"
+        ],
+        "personality": [
+            "Outgoing",
+            "Persuasive"
+        ],
+        "salary": "4L-20L",
+        "demand": "Medium",
+        "category": "Business"
+    },
+    {
+        "career": "SEO Specialist",
+        "skills": [
+            "Keyword Research",
+            "Data Analysis",
+            "Content Optimization"
+        ],
+        "personality": [
+            "Analytical",
+            "Detail Oriented"
+        ],
+        "salary": "4L-20L",
+        "demand": "High",
+        "category": "Technology"
+    },
+    {
+        "career": "Mobile App Developer",
+        "skills": [
+            "Programming",
+            "UI/UX Design",
+            "Problem Solving"
+        ],
+        "personality": [
+            "Innovative",
+            "Creative"
+        ],
+        "salary": "6L-25L",
+        "demand": "High",
+        "category": "Technology"
+    },
+    {
+        "career": "Information Security Analyst",
+        "skills": [
+            "IT Security",
+            "Risk Management",
+            "Analytical Thinking"
+        ],
+        "personality": [
+            "Detail Oriented",
+            "Critical Thinker"
+        ],
+        "salary": "8L-35L",
+        "demand": "High",
+        "category": "Technology"
+    },
+    {
+        "career": "Training and Development Specialist",
+        "skills": [
+            "Communication",
+            "Instructional Design",
+            "Organizational Skills"
+        ],
+        "personality": [
+            "Empathetic",
+            "Patient"
+        ],
+        "salary": "4L-20L",
+        "demand": "Medium",
+        "category": "Humanities"
+    },
+    {
+        "career": "Data Analyst",
+        "skills": [
+            "Data Analysis",
+            "Statistics",
+            "Excel"
+        ],
+        "personality": [
+            "Analytical",
+            "Detail Oriented"
+        ],
+        "salary": "5L-18L",
+        "demand": "High",
+        "category": "Technology"
+    },
+    {
+        "career": "Logistics Manager",
+        "skills": [
+            "Supply Chain Management",
+            "Analytical Skills",
+            "Negotiation"
+        ],
+        "personality": [
+            "Organized",
+            "Proactive"
+        ],
+        "salary": "6L-25L",
+        "demand": "Medium",
+        "category": "Commerce"
+    },
+    {
+        "career": "Family Therapist",
+        "skills": [
+            "Counseling",
+            "Communication",
+            "Conflict Resolution"
+        ],
+        "personality": [
+            "Empathetic",
+            "Patient"
+        ],
+        "salary": "6L-25L",
+        "demand": "High",
+        "category": "Medicine"
+    },
+    {
+        "career": "Nurse Practitioner",
+        "skills": [
+            "Clinical Skills",
+            "Patient Care",
+            "Medical Knowledge"
+        ],
+        "personality": [
+            "Compassionate",
+            "Detail Oriented"
+        ],
+        "salary": "8L-25L",
+        "demand": "High",
+        "category": "Medicine"
+    },
+    {
+        "career": "Clinical Psychologist",
+        "skills": [
+            "Therapeutic Skills",
+            "Research",
+            "Communication"
+        ],
+        "personality": [
+            "Empathetic",
+            "Inquisitive"
+        ],
+        "salary": "8L-30L",
+        "demand": "High",
+        "category": "Medicine"
+    },
+    {
+        "career": "Telecommunications Specialist",
+        "skills": [
+            "Signal Processing",
+            "Network Management",
+            "Troubleshooting"
+        ],
+        "personality": [
+            "Analytical",
+            "Detail Oriented"
+        ],
+        "salary": "5L-20L",
+        "demand": "Medium",
+        "category": "Technology"
+    },
+    {
+        "career": "E-commerce Specialist",
+        "skills": [
+            "Digital Marketing",
+            "Inventory Management",
+            "Customer Service"
+        ],
+        "personality": [
+            "Creative",
+            "Analytical"
+        ],
+        "salary": "4L-18L",
+        "demand": "High",
+        "category": "Commerce"
+    },
+    {
+        "career": "Blockchain Developer",
+        "skills": [
+            "Cryptography",
+            "Blockchain Technology",
+            "Programming"
+        ],
+        "personality": [
+            "Innovative",
+            "Analytical"
+        ],
+        "salary": "10L-50L",
+        "demand": "High",
+        "category": "Technology"
+    },
+    {
+        "career": "Online Community Manager",
+        "skills": [
+            "Social Media Management",
+            "Communication",
+            "Customer Engagement"
+        ],
+        "personality": [
+            "Outgoing",
+            "Empathetic"
+        ],
+        "salary": "3L-15L",
+        "demand": "Medium",
+        "category": "Business"
+    },
+    {
+        "career": "Corporate Trainer",
+        "skills": [
+            "Presentation",
+            "Training",
+            "Communication"
+        ],
+        "personality": [
+            "Patient",
+            "Engaging"
+        ],
+        "salary": "4L-20L",
+        "demand": "Medium",
+        "category": "Humanities"
+    },
+    {
+        "career": "Credit Analyst",
+        "skills": [
+            "Financial Analysis",
+            "Risk Assessment",
+            "Analytical Skills"
+        ],
+        "personality": [
+            "Detail Oriented",
+            "Analytical"
+        ],
+        "salary": "5L-20L",
+        "demand": "Medium",
+        "category": "Finance"
+    },
+    {
+        "career": "Genetic Counselor",
+        "skills": [
+            "Genetic Knowledge",
+            "Counseling",
+            "Communication"
+        ],
+        "personality": [
+            "Empathetic",
+            "Detail Oriented"
+        ],
+        "salary": "8L-30L",
+        "demand": "Medium",
+        "category": "Medicine"
+    },
+    {
+        "career": "Public Administrator",
+        "skills": [
+            "Policy Analysis",
+            "Management",
+            "Public Relations"
+        ],
+        "personality": [
+            "Organized",
+            "Analytical"
+        ],
+        "salary": "6L-25L",
+        "demand": "Medium",
+        "category": "Government"
+    },
+    {
+        "career": "Historian",
+        "skills": ["Research","Writing","Critical Thinking"],
+        "personality": ["Analytical"],
+        "subjects": ["History"],
+        "domains": ["Humanities"],
+        "demand": "Medium"
+    },
+    {
+        "career": "Geographer",
+        "skills": ["Data Analysis","Mapping"],
+        "personality": ["Analytical"],
+        "subjects": ["Geography"],
+        "domains": ["Social Science"],
+        "demand": "Medium"
+    }
+    
+]
